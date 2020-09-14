@@ -5,11 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django, Deep Learning
-- 🌱 I’m currently learning various skills required in Data Science 
+- 🔭 I’m currently working on chatbot, Deep Learning
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Shagun Jain](jshagun710@gmail.com)
+- 📫 How to reach me: [Shagun Jain](mailto:jshagun710@gmail.com)
 
 
